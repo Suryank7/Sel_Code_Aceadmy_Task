@@ -20,13 +20,6 @@ The project demonstrates the construction of an Artificial Intelligence system c
 - **Analytical Visualizations**: Generates professional-grade charts for Confusion Matrix and Feature Importance analysis.
 - **Inference Capability**: Includes a demonstration of risk prediction for new, unseen patient data.
 
-## Project Structure
-
-| File | Description |
-|------|-------------|
-| `heart_disease_demo.py` | The main executable Python script containing the full Machine Learning pipeline. |
-| `ML_Teaching_Video_Script.md` | A detailed step-by-step educational script and demonstration flow. |
-| `heart_disease_analysis.png` | The generated visualization output showing model analysis metrics. |
 
 ## Requirements
 
@@ -55,4 +48,4 @@ The script performs the following operations:
 ## Acknowledgments
 
 - **Dataset**: [UCI Heart Disease Data](https://archive.ics.uci.edu/ml/datasets/heart+disease)
-- **Author**: SelfCode Academy
+
